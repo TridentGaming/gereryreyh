@@ -1,0 +1,9 @@
+{
+	"ip":"playbrutal.tk",
+	"port": 32387,
+	"name": "Bulbasaur",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (*AByz#22) (*AByz#22)",
+	"login-cmd":"/login (*AByz#22)"
+}
